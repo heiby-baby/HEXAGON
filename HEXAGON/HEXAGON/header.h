@@ -4,4 +4,11 @@
 #include <SFML/Graphics.hpp>
 #include "Vector.h"
 #include "graficfunc.h"
+#include "func.h"
+#include "funcForMinimax.h"
+struct gamestats {
+	bool move = true; //ход игрока
+	bool inActive = false;
+	int vertexMove = -1;
+};
 

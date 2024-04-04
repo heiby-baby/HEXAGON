@@ -133,6 +133,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="func.h" />
+    <ClInclude Include="funcForMinimax.h" />
     <ClInclude Include="graficfunc.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="Vector.h" />

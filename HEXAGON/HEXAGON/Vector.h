@@ -107,7 +107,7 @@ public:
             _data = _tempData;
         }
         _data[_size++] = data;
-        insertionSort();
+        quickSort();
     }
 
     void pop_back() {

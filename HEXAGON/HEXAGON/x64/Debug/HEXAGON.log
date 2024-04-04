@@ -1,11 +1,33 @@
 ﻿  main.cpp
-C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(9,32): warning C4305: инициализация: усечение из "double" в "float"
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(11,32): warning C4305: инициализация: усечение из "double" в "float"
   (компиляция исходного файла "main.cpp")
   
-C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(10,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(12,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   (компиляция исходного файла "main.cpp")
   
-C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(10,28): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(12,28): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
   (компиляция исходного файла "main.cpp")
   
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(116,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(116,32): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\Vector.h(64,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\Vector.h(64,31):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(142,5):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<int>"
+  	C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\Vector.h(63,5):
+  	во время компиляции функции-члена класс шаблон "Vector<int>::Vector(std::initializer_list<_T>)"
+          with
+          [
+              _T=int
+          ]
+  		C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\main.cpp(98,19):
+  		см. первую ссылку на "Vector<int>::Vector" в "main"
+  
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\main.cpp(72,1): warning C4715: MiniMax: значение возвращается не при всех путях выполнения
   HEXAGON.vcxproj -> C:\Heiby\Заказы\Слава Кантинов\HEXAGON\x64\Debug\HEXAGON.exe
