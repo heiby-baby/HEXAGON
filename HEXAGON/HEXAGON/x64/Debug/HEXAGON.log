@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(9,32): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(10,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Heiby\Заказы\Слава Кантинов\HEXAGON\HEXAGON\graficfunc.h(10,28): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  HEXAGON.vcxproj -> C:\Heiby\Заказы\Слава Кантинов\HEXAGON\x64\Debug\HEXAGON.exe
