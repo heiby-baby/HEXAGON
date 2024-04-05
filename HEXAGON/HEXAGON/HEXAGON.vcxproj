@@ -133,10 +133,12 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AlphaBeta.h" />
     <ClInclude Include="func.h" />
     <ClInclude Include="funcForMinimax.h" />
     <ClInclude Include="graficfunc.h" />
     <ClInclude Include="header.h" />
+    <ClInclude Include="Minimax.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

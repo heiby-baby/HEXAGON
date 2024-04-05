@@ -350,9 +350,9 @@ void MovesGenerator(int vertex, Vector<sf::ConvexShape>& hexagon, Vector<int>& F
     case(23):
     {
         if (hexagon[22].getFillColor() == color) setColor(22, hexagon, FieldsForMove);
-        if (hexagon[24].getFillColor() == color) setColor(18, hexagon, FieldsForMove);
+        if (hexagon[24].getFillColor() == color) setColor(24, hexagon, FieldsForMove);
         if (hexagon[17].getFillColor() == color) setColor(17, hexagon, FieldsForMove);
-        if (hexagon[16].getFillColor() == color) setColor(24, hexagon, FieldsForMove);
+        if (hexagon[16].getFillColor() == color) setColor(16, hexagon, FieldsForMove);
         if (hexagon[31].getFillColor() == color) setColor(31, hexagon, FieldsForMove);
         if (hexagon[30].getFillColor() == color) setColor(30, hexagon, FieldsForMove);        break;
 
@@ -539,7 +539,7 @@ void MovesGenerator(int vertex, Vector<sf::ConvexShape>& hexagon, Vector<int>& F
         if (hexagon[45].getFillColor() == color) setColor(45, hexagon, FieldsForMove);
         if (hexagon[37].getFillColor() == color) setColor(37, hexagon, FieldsForMove);
         if (hexagon[51].getFillColor() == color) setColor(51, hexagon, FieldsForMove);
-        if (hexagon[49].getFillColor() == color) setColor(49, hexagon, FieldsForMove);
+        if (hexagon[50].getFillColor() == color) setColor(50, hexagon, FieldsForMove);
         break;
     }
     case(45):

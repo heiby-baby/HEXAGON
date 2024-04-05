@@ -1,6 +1,12 @@
 #pragma once
 #include "header.h"
 
+void print(Vector<int>& AiChekers, Vector<int>& PlayerChekers, Vector<int> FreeFields)
+{
+	std::cout << "AiChekers: " << AiChekers << std::endl;
+	std::cout << "PlayerChekers: " << PlayerChekers << std::endl;
+	std::cout << "FreeFields: " << FreeFields << std::endl;
+}
 template<typename T>
 int binarySearch(const Vector<T>& vector, const T& key) {
 	int low = 0;

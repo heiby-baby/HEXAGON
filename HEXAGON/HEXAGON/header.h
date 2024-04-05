@@ -10,5 +10,6 @@ struct gamestats {
 	bool move = true; //ход игрока
 	bool inActive = false;
 	int vertexMove = -1;
+	int Final = 0;
 };
 

@@ -7,20 +7,31 @@
       "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\AlphaBeta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\AlphaBeta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\Minimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\Minimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\funcForMinimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\funcForMinimax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\graficfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\graficfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDDED587-D60B-4367-A15B-067AA08C389F}|HEXAGON\\HEXAGON.vcxproj|solutionrelative:HEXAGON\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,45 +41,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 179,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "func.h",
-              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\func.h",
-              "RelativeDocumentMoniker": "HEXAGON\\func.h",
-              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\func.h",
-              "RelativeToolTip": "HEXAGON\\func.h",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Minimax.h",
+              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\Minimax.h",
+              "RelativeDocumentMoniker": "HEXAGON\\Minimax.h",
+              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\Minimax.h",
+              "RelativeToolTip": "HEXAGON\\Minimax.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-04T20:34:52.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "header.h",
-              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\header.h",
-              "RelativeDocumentMoniker": "HEXAGON\\header.h",
-              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\header.h",
-              "RelativeToolTip": "HEXAGON\\header.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-04T17:06:46.872Z",
+              "WhenOpened": "2024-04-05T14:40:10.301Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "funcForMinimax.h",
-              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\funcForMinimax.h",
-              "RelativeDocumentMoniker": "HEXAGON\\funcForMinimax.h",
-              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\funcForMinimax.h",
-              "RelativeToolTip": "HEXAGON\\funcForMinimax.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAABGAAAA",
+              "Title": "AlphaBeta.h",
+              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\AlphaBeta.h",
+              "RelativeDocumentMoniker": "HEXAGON\\AlphaBeta.h",
+              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\AlphaBeta.h",
+              "RelativeToolTip": "HEXAGON\\AlphaBeta.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-04T23:07:03.503Z",
+              "WhenOpened": "2024-04-05T14:27:41.04Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -89,15 +89,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Vector.h",
-              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\Vector.h",
-              "RelativeDocumentMoniker": "HEXAGON\\Vector.h",
-              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\Vector.h",
-              "RelativeToolTip": "HEXAGON\\Vector.h",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAgwKcAAAAOAAAA",
+              "DocumentIndex": 4,
+              "Title": "graficfunc.h",
+              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\graficfunc.h",
+              "RelativeDocumentMoniker": "HEXAGON\\graficfunc.h",
+              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\graficfunc.h",
+              "RelativeToolTip": "HEXAGON\\graficfunc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-04T21:20:32.76Z",
+              "WhenOpened": "2024-04-05T00:07:13.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAawCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T13:16:34.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "func.h",
+              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\func.h",
+              "RelativeDocumentMoniker": "HEXAGON\\func.h",
+              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\func.h",
+              "RelativeToolTip": "HEXAGON\\func.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T20:34:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\header.h",
+              "RelativeDocumentMoniker": "HEXAGON\\header.h",
+              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\header.h",
+              "RelativeToolTip": "HEXAGON\\header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T17:06:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "funcForMinimax.h",
+              "DocumentMoniker": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\funcForMinimax.h",
+              "RelativeDocumentMoniker": "HEXAGON\\funcForMinimax.h",
+              "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\funcForMinimax.h",
+              "RelativeToolTip": "HEXAGON\\funcForMinimax.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T23:07:03.503Z",
               "EditorCaption": ""
             },
             {
@@ -108,7 +160,7 @@
               "RelativeDocumentMoniker": "HEXAGON\\main.cpp",
               "ToolTip": "C:\\Heiby\\\u0417\u0430\u043A\u0430\u0437\u044B\\\u0421\u043B\u0430\u0432\u0430 \u041A\u0430\u043D\u0442\u0438\u043D\u043E\u0432\\HEXAGON\\HEXAGON\\main.cpp",
               "RelativeToolTip": "HEXAGON\\main.cpp",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAmwIsAAAAYAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF8AAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-04T17:06:41.695Z",
               "EditorCaption": ""
